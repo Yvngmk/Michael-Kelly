@@ -5,7 +5,7 @@ h2>👨‍💻 Information Technology Projects:</h2>
   - [osTicket: Prerequisites and Installation](https://github.com/Yvngmk/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  
+  - (Installing Active Directory in Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com//configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Yvngmk/azure-network-protocols1)
 
