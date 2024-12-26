@@ -6,7 +6,7 @@ h2>👨‍💻 Information Technology Projects:</h2>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
    - [Installing Active Directory in Azure](https://github.com/Yvngmk/Installing-Active-Directory-in-Azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com//configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Yvngmk/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Yvngmk/azure-network-protocols1)
 
 <h2>🤳Connect with me:</h2>
